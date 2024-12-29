@@ -1,8 +1,15 @@
-Here’s the updated **README.md** file incorporating your instructions for setting up and running the project:
-
----
-
 # **AR Wardrobe**
+
+# AR Wardrobe
+
+![AR Wardrobe Header](assets/Sample-Image1.png)
+![AR Wardrobe Header](assets/Sample-Image2.png)
+![AR Wardrobe Header](assets/Sample-Image3.png)
+![AR Wardrobe Header](assets/Sample-Image4.png)
+![AR Wardrobe Header](assets/Sample-Image5.png)
+![AR Wardrobe Header](assets/Sample-Image6.png)
+![AR Wardrobe Header](assets/Sample-Image7.png)
+![AR Wardrobe Header](assets/Sample-Image8.png)
 
 AR Wardrobe is a web-based platform designed to revolutionize the retail experience with augmented reality (AR), machine learning (ML), and computer vision. This website demonstrates the concept by offering a user-friendly interface, responsive design, and a preview of the virtual try-on functionality.
 
