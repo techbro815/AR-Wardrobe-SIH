@@ -56,7 +56,6 @@ To preview and run the project on your local device, follow these steps:
    ```bash
    npm start
    ```
-5. Open the browser and go to `http://localhost:3000` to view the project.
 
 ---
 
