@@ -78,3 +78,20 @@ To preview and run the project on your local device, follow these steps:
 - Advanced ML algorithms for personalized recommendations.
 
 ---
+
+## AR Wardrobe Video Overview
+
+This video showcases the revolutionary features of AR Wardrobe, a cutting-edge solution transforming the shopping experience through augmented reality (AR) and machine learning (ML). The video demonstrates the intuitive virtual try-on feature, allowing users to visualize clothing on their digital avatar in real time.
+
+### Key highlights include:
+
+- **Virtual Try-On**: Seamlessly try on outfits with realistic 3D visualization powered by AR and pose estimation.
+- **Smart Recommendations**: The system provides personalized clothing and size suggestions based on user preferences and measurements.
+- **User-Friendly Interface**: A clean, interactive UI ensures a smooth and engaging shopping experience.
+- **Real-Time Rendering**: Dynamic rendering of outfits, showcasing realistic fabric flow and fit.
+
+This video underscores how AR Wardrobe eliminates the need for physical fitting rooms, addressing hygiene concerns, saving time, and providing a scalable solution for retailers of all sizes. Perfect for modern, contactless shopping in a post-pandemic world.
+
+### Video Link:
+
+[Watch AR Wardrobe Video](./AR%20Wardrobe.mp4)
