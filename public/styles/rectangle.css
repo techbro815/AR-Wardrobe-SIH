@@ -1,0 +1,7 @@
+.rectangle-div1 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  height: 130px;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="../../public/styles/global.css" />
+    <link rel="stylesheet" href="../styles/input2.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Volkhov:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Aftika:wght@900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="input">
+      <div class="header13">
+        <div class="nav-elements13">
+          <div class="button24" id="buttonContainer">
+            <div class="bg22"></div>
+            <div class="sign-up15">Sign Up</div>
+          </div>
+          <div class="try-on15">Try On</div>
+          <div class="home15">Home</div>
+          <div class="size-recommnedation13">Size Recommnedation</div>
+          <div class="browse13">Browse</div>
+        </div>
+        <b class="ar-wardrobe13">AR WARDROBE</b>
+      </div>
+      <div class="ultimate-parent" id="groupContainer">
+        <div class="ultimate42">
+          <div class="ultimate43">ULTIMATE</div>
+          <div class="which-brands-fit">
+            Which brand's fit are you familiar with?
+          </div>
+        </div>
+        <div class="line-div"></div>
+        <div class="ultimate44">
+          <div class="ultimate43">ULTIMATE</div>
+          <div class="which-brands-fit">
+            What size do you usually wear in it?
+          </div>
+        </div>
+        <div class="group-child4"></div>
+      </div>
+      <img class="image-icon" alt="" src="../../public/images/image-2@2x.png" />
+    </div>
+
+    <script>
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./p-r-o-d-u-c-t-details3.html";
+        });
+      }
+    </script>
+  </body>
+</html>

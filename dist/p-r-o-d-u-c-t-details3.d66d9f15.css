@@ -1,0 +1,131 @@
+.whatsapp-image-2024-09-04-at-1 {
+  object-fit: cover;
+  width: 756px;
+  height: 845px;
+  position: absolute;
+  top: 137px;
+  left: 0;
+}
+
+.ultimate11, .your-recommended-size {
+  letter-spacing: -.04em;
+  font-weight: 500;
+  position: absolute;
+}
+
+.ultimate11 {
+  text-shadow: 1px 0 #484848, 0 1px #484848, -1px 0 #484848, 0 -1px #484848;
+  width: 670.5px;
+  line-height: 100%;
+  display: none;
+  top: 231px;
+  left: -589px;
+}
+
+.your-recommended-size {
+  font-size: var(--font-size-17xl);
+  text-align: left;
+  width: 467px;
+  line-height: 104%;
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
+
+.ultimate10 {
+  cursor: pointer;
+  width: 467px;
+  height: 37px;
+  top: 366px;
+  left: 868px;
+}
+
+.bg1, .sign-up1, .ultimate10 {
+  position: absolute;
+}
+
+.bg1 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.sign-up1 {
+  line-height: 100%;
+  top: 16px;
+  left: 38px;
+}
+
+.button1 {
+  cursor: pointer;
+  text-align: center;
+  width: 152px;
+  height: 56px;
+  color: var(--color-black);
+  position: absolute;
+  top: 0;
+  left: 643px;
+}
+
+.home1, .try-on1 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+
+.home1 {
+  left: 0;
+}
+
+.browse1, .nav-elements1, .size-recommnedation1 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+
+.browse1, .nav-elements1 {
+  left: 375px;
+}
+
+.nav-elements1 {
+  width: 795px;
+  height: 56px;
+  top: 0;
+  left: 501px;
+}
+
+.ar-wardrobe1 {
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.header1 {
+  text-align: left;
+  width: 1296px;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  position: absolute;
+  top: 50px;
+  left: 108px;
+}
+
+.product-details {
+  background-color: var(--color-black);
+  text-align: center;
+  width: 100%;
+  height: 982px;
+  font-size: var(--font-size-72xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=p-r-o-d-u-c-t-details3.d66d9f15.css.map */

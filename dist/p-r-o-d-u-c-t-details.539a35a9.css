@@ -1,0 +1,237 @@
+.bg2, .sign-up2 {
+  position: absolute;
+}
+
+.bg2 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.sign-up2 {
+  line-height: 100%;
+  top: 16px;
+  left: 38px;
+}
+
+.button2 {
+  cursor: pointer;
+  text-align: center;
+  width: 152px;
+  height: 56px;
+  color: var(--color-black);
+  position: absolute;
+  top: 0;
+  left: 643px;
+}
+
+.home2, .try-on2 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+
+.home2 {
+  left: 0;
+}
+
+.browse2, .nav-elements2, .size-recommnedation2 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+
+.browse2, .nav-elements2 {
+  left: 375px;
+}
+
+.nav-elements2 {
+  width: 795px;
+  height: 56px;
+  top: 0;
+  left: 501px;
+}
+
+.ar-wardrobe2 {
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.header2 {
+  width: 1296px;
+  height: 56px;
+  top: 63px;
+  left: 108px;
+}
+
+.bg3, .buy-now, .header2 {
+  position: absolute;
+}
+
+.bg3 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 207px;
+  height: 56px;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.buy-now {
+  line-height: 100%;
+  top: 20px;
+  left: 69px;
+}
+
+.button3 {
+  cursor: pointer;
+  width: 207px;
+  height: 56px;
+  position: absolute;
+  top: 393px;
+  left: 0;
+}
+
+.span {
+  font-size: var(--font-size-5xl);
+}
+
+.bg4, .div2 {
+  position: absolute;
+  left: 0;
+}
+
+.div2 {
+  color: var(--color-whitesmoke);
+  font-weight: 500;
+  font-size: var(--font-size-9xl);
+  top: 331px;
+}
+
+.bg4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 53px;
+  height: 28px;
+  top: 0;
+}
+
+.m1 {
+  line-height: 100%;
+  top: 6px;
+  left: 20px;
+}
+
+.m, .m1, .size, .size1 {
+  position: absolute;
+}
+
+.m {
+  width: 53px;
+  height: 28px;
+  top: 0;
+  left: 49px;
+}
+
+.size, .size1 {
+  left: 0;
+}
+
+.size1 {
+  color: var(--color-silver);
+  top: 2px;
+}
+
+.size {
+  width: 102px;
+  height: 28px;
+  top: 283px;
+}
+
+.lorem-ipsum-dolor {
+  color: var(--color-silver);
+  width: 515px;
+  display: inline-block;
+  position: absolute;
+  top: 167px;
+  left: 0;
+}
+
+.description, .peaky-blinders {
+  color: var(--color-whitesmoke);
+  position: absolute;
+  left: 0;
+}
+
+.description {
+  text-decoration: underline;
+  top: 123px;
+}
+
+.peaky-blinders {
+  font-size: var(--font-size-27xl);
+  font-family: var(--font-volkhov);
+  top: 44px;
+}
+
+.women-collection {
+  color: var(--color-silver);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.try-on3 {
+  line-height: 100%;
+  position: absolute;
+  top: 18px;
+  left: 71px;
+}
+
+.button4, .title-text {
+  width: 207px;
+  height: 56px;
+  font-size: var(--font-size-xl);
+  position: absolute;
+  top: 393px;
+  left: 278px;
+}
+
+.title-text {
+  width: 515px;
+  height: 449px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  top: 283px;
+  left: 813px;
+}
+
+.image-3-icon {
+  object-fit: cover;
+  width: 462px;
+  height: 1024px;
+  position: absolute;
+  top: 220px;
+  left: 147px;
+}
+
+.product-details1 {
+  background-color: var(--color-black);
+  text-align: left;
+  width: 100%;
+  height: 982px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-poppins);
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=p-r-o-d-u-c-t-details.539a35a9.css.map */

@@ -1,0 +1,258 @@
+.bg19 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.sign-up13 {
+  line-height: 100%;
+  position: absolute;
+  top: 16px;
+  left: 38px;
+}
+
+.button18 {
+  cursor: pointer;
+  text-align: center;
+  width: 152px;
+  height: 56px;
+  color: var(--color-black);
+  position: absolute;
+  top: 0;
+  left: 643px;
+}
+
+.home14, .try-on14 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+
+.home14 {
+  left: 0;
+}
+
+.browse12, .nav-elements12, .size-recommnedation12 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+
+.browse12, .nav-elements12 {
+  left: 375px;
+}
+
+.nav-elements12 {
+  width: 795px;
+  height: 56px;
+  top: 0;
+  left: 501px;
+}
+
+.ar-wardrobe12 {
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.header12 {
+  text-align: left;
+  width: 1296px;
+  height: 56px;
+  position: absolute;
+  top: 50px;
+  left: 108px;
+}
+
+.product-details-item {
+  background-color: var(--color-lightgray);
+  width: 638px;
+  height: 239px;
+  position: absolute;
+  top: 172px;
+  left: 766px;
+}
+
+.product-details-inner {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 65px;
+  height: 60px;
+  position: absolute;
+  top: 288px;
+  left: 802px;
+}
+
+.product-details-child1 {
+  background-color: var(--color-tomato);
+  left: 986px;
+}
+
+.product-details-child1, .product-details-child2, .product-details-child3 {
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 65px;
+  height: 60px;
+  position: absolute;
+  top: 288px;
+}
+
+.product-details-child2 {
+  background-color: var(--color-skyblue);
+  left: 894px;
+}
+
+.product-details-child3 {
+  background-color: #fcbe20;
+  left: 1078px;
+}
+
+.color-options-for, .ultimate41 {
+  letter-spacing: -.04em;
+  font-weight: 500;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.ultimate41 {
+  text-shadow: 1px 0 #484848, 0 1px #484848, -1px 0 #484848, 0 -1px #484848;
+  line-height: 100%;
+  display: none;
+}
+
+.color-options-for {
+  text-align: left;
+  width: 567px;
+  font-size: 40px;
+  line-height: 104%;
+  display: inline-block;
+}
+
+.ultimate40 {
+  width: 567px;
+  height: 42px;
+  font-size: var(--font-size-72xl);
+  color: var(--color-darkslategray);
+  position: absolute;
+  top: 220px;
+  left: 802px;
+}
+
+.bg20 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  width: 177px;
+  height: 62.1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.sign-up14 {
+  width: 88.5px;
+  height: 22.2px;
+  line-height: 100%;
+  display: inline-block;
+  position: absolute;
+  top: 20.3px;
+  left: 44.3px;
+}
+
+.button19 {
+  cursor: pointer;
+  width: 177px;
+  height: 62.1px;
+  position: absolute;
+  top: 65px;
+  left: 0;
+}
+
+.save-your-info1 {
+  font-size: var(--font-size-5xl);
+  letter-spacing: -.04em;
+  color: var(--color-whitesmoke);
+  text-align: left;
+  width: 556px;
+  font-weight: 500;
+  line-height: 104%;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.button-parent {
+  width: 556px;
+  height: 127.1px;
+  color: var(--color-gainsboro);
+  top: 796px;
+  left: 766px;
+}
+
+.bg21, .button-parent, .purchase {
+  position: absolute;
+}
+
+.bg21 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 241px;
+  height: 79.7px;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.purchase {
+  text-shadow: 1px 0 #f4f4f4, 0 1px #f4f4f4, -1px 0 #f4f4f4, 0 -1px #f4f4f4;
+  width: 203px;
+  height: 28px;
+  line-height: 100%;
+  display: inline-block;
+  top: 26px;
+  left: 19px;
+}
+
+.button20 {
+  cursor: pointer;
+  width: 241px;
+  height: 79.7px;
+  font-size: var(--font-size-13xl);
+  position: absolute;
+  top: 437px;
+  left: 1163px;
+}
+
+.images-2-1 {
+  object-fit: cover;
+  width: 662px;
+  height: 622px;
+  position: absolute;
+  top: 220px;
+  left: 52px;
+}
+
+.product-details4 {
+  background-color: var(--color-black);
+  text-align: center;
+  width: 100%;
+  height: 982px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-poppins);
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=p-r-o-d-u-c-t-details4.6eb20fa5.css.map */

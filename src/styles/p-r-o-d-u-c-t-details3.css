@@ -1,0 +1,121 @@
+.whatsapp-image-2024-09-04-at-1 {
+  position: absolute;
+  top: 137px;
+  left: 0;
+  width: 756px;
+  height: 845px;
+  object-fit: cover;
+}
+.ultimate11,
+.your-recommended-size {
+  position: absolute;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+}
+.ultimate11 {
+  top: 231px;
+  left: -589px;
+  line-height: 100%;
+  display: none;
+  width: 670.5px;
+  text-shadow: 1px 0 0#484848, 0 1px 0#484848, -1px 0 0#484848, 0-1px 0#484848;
+}
+.your-recommended-size {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  line-height: 104%;
+  text-align: left;
+  display: inline-block;
+  width: 467px;
+}
+.ultimate10 {
+  top: 366px;
+  left: 868px;
+  width: 467px;
+  height: 37px;
+  cursor: pointer;
+}
+.bg1,
+.sign-up1,
+.ultimate10 {
+  position: absolute;
+}
+.bg1 {
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.15);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+}
+.sign-up1 {
+  top: 16px;
+  left: 38px;
+  line-height: 100%;
+}
+.button1 {
+  position: absolute;
+  top: 0;
+  left: 643px;
+  width: 152px;
+  height: 56px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-black);
+}
+.home1,
+.try-on1 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+.home1 {
+  left: 0;
+}
+.browse1,
+.nav-elements1,
+.size-recommnedation1 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+.browse1,
+.nav-elements1 {
+  left: 375px;
+}
+.nav-elements1 {
+  top: 0;
+  left: 501px;
+  width: 795px;
+  height: 56px;
+}
+.ar-wardrobe1 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+}
+.header1 {
+  position: absolute;
+  top: 50px;
+  left: 108px;
+  width: 1296px;
+  height: 56px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+}
+.product-details {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 982px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-72xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

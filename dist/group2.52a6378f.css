@@ -1,0 +1,78 @@
+.payment-methods {
+  width: 652.6px;
+  height: 40.1px;
+  line-height: 46px;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.credit-card-icon, .credit-card-icon1 {
+  width: 70px;
+  height: 48px;
+  position: relative;
+}
+
+.credit-card-icon1 {
+  object-fit: cover;
+}
+
+.base6 {
+  background-color: #f1f6ff;
+  border-radius: 4px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.g-icon, .pay-icon {
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  overflow: hidden;
+}
+
+.pay-icon {
+  object-fit: cover;
+  width: 57.6%;
+  height: 94.17%;
+  inset: 5.83% 0 0 42.4%;
+}
+
+.g-icon {
+  width: 33%;
+  height: 83.01%;
+  inset: 0 67% 16.99% 0;
+}
+
+.googlepay {
+  width: 71.43%;
+  height: 42.92%;
+  position: absolute;
+  inset: 32.08% 14.29% 25%;
+}
+
+.credit-card-parent {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  width: 652.6px;
+  display: flex;
+  position: absolute;
+  top: 65px;
+  left: 0;
+}
+
+.payment-methods-parent {
+  text-align: left;
+  width: 100%;
+  height: 113px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--headings-typography-size-2);
+  position: relative;
+}
+/*# sourceMappingURL=group2.52a6378f.css.map */

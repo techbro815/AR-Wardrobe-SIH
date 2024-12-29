@@ -1,0 +1,11 @@
+.complete-registration-payment {
+  width: 652.6px;
+  position: relative;
+  font-size: var(--headings-typography-size-2-size);
+  line-height: 46px;
+  display: inline-block;
+  font-family: var(--headings-typography-size-2);
+  color: var(--color-white);
+  text-align: left;
+  height: 40.1px;
+}

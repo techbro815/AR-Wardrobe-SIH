@@ -1,0 +1,165 @@
+.address-line, .personal-details {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.personal-details {
+  font-size: var(--font-size-5xl);
+  line-height: 46px;
+  font-family: var(--headings-typography-size-2);
+  width: 652.6px;
+  height: 40.1px;
+}
+
+.address-line {
+  letter-spacing: -.02em;
+  width: 161px;
+  height: 12px;
+  font-weight: 600;
+  line-height: 100%;
+}
+
+.background-child1 {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+}
+
+.background-child1, .background4 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  inset: 0;
+}
+
+.text4 {
+  width: 83px;
+  height: 14px;
+  position: absolute;
+  top: calc(50% - 7.8px);
+  left: 24px;
+}
+
+.email4, .large-input4 {
+  width: 357.7px;
+  height: 43.6px;
+  position: absolute;
+  top: 23.2px;
+  left: 0;
+}
+
+.email4 {
+  height: 66.9px;
+  top: 51.8px;
+}
+
+.arusha-tanzania, .state {
+  letter-spacing: -.02em;
+  line-height: 100%;
+  position: absolute;
+  left: 0;
+}
+
+.state {
+  width: 93px;
+  height: 12px;
+  font-weight: 600;
+  display: inline-block;
+  top: 0;
+}
+
+.arusha-tanzania {
+  top: calc(50% - 7px);
+}
+
+.text5 {
+  width: 115px;
+  height: 14px;
+  position: absolute;
+  top: calc(50% - 7.8px);
+  left: 24px;
+}
+
+.email5, .large-input5 {
+  width: 357.7px;
+  height: 43.6px;
+  position: absolute;
+  top: 23.6px;
+  left: 0;
+}
+
+.email5 {
+  height: 67.2px;
+  top: 137.8px;
+}
+
+.city {
+  letter-spacing: -.02em;
+  width: 81px;
+  height: 12px;
+  font-weight: 600;
+  line-height: 100%;
+  display: inline-block;
+  top: 0;
+  left: .1px;
+}
+
+.city, .email6, .text6 {
+  position: absolute;
+}
+
+.text6 {
+  width: 48px;
+  height: 14px;
+  top: calc(50% - 7.8px);
+  left: 24px;
+}
+
+.email6 {
+  width: 357.7px;
+  height: 66.9px;
+  top: 51.8px;
+  left: 383.9px;
+}
+
+.postal-code {
+  letter-spacing: -.02em;
+  width: 142px;
+  height: 12px;
+  font-weight: 600;
+  line-height: 100%;
+  display: inline-block;
+  top: 0;
+  left: .1px;
+}
+
+.email7, .postal-code, .text7 {
+  position: absolute;
+}
+
+.text7 {
+  width: 36px;
+  height: 14px;
+  top: calc(50% - 7.8px);
+  left: 24px;
+}
+
+.email7 {
+  width: 357.7px;
+  height: 67.2px;
+  top: 137.8px;
+  left: 383.9px;
+}
+
+.personal-details-parent {
+  text-align: left;
+  width: 100%;
+  height: 205px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+  position: relative;
+}
+/*# sourceMappingURL=group.c32a3dd4.css.map */

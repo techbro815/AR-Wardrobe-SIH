@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="../../public/styles/global.css" />
+    <link rel="stylesheet" href="../styles/option1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=DM Sans:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Volkhov:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Aftika:wght@900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="option3">
+      <div class="header10">
+        <div class="nav-elements10">
+          <div class="button16" id="buttonContainer">
+            <div class="bg17"></div>
+            <div class="sign-up11">Sign Up</div>
+          </div>
+          <div class="try-on12">Try On</div>
+          <div class="home12">Home</div>
+          <div class="size-recommnedation10">Size Recommnedation</div>
+          <div class="browse10">Browse</div>
+        </div>
+        <b class="ar-wardrobe10">AR WARDROBE</b>
+      </div>
+      <div class="rectangle-parent2">
+        <div class="group-child3"></div>
+        <img
+          class="mask-group-icon12"
+          alt=""
+          src="../../public/icons/mask-group@2x.png"
+          id="maskGroupImage"
+        />
+
+        <img
+          class="mask-group-icon13"
+          alt=""
+          src="../../public/icons/mask-group.svg"
+          id="maskGroup"
+        />
+
+        <div class="ultimate30">
+          <div class="ultimate31">ULTIMATE</div>
+          <div class="ready-to-try2">
+            Ready to try something specific, or looking to explore new styles?
+          </div>
+        </div>
+        <div class="ultimate32">
+          <div class="ultimate33">ULTIMATE</div>
+          <div class="ive-chosen-a2">I’ve chosen a product</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="optionContainer" class="popup-overlay" style="display: none">
+      <div class="option">
+        <div class="header">
+          <div class="nav-elements">
+            <div class="button" id="popupbuttonContainer">
+              <div class="bg"></div>
+              <div class="sign-up">Sign Up</div>
+            </div>
+            <div class="try-on">Try On</div>
+            <div class="home">Home</div>
+            <div class="size-recommnedation">Size Recommnedation</div>
+            <div class="browse">Browse</div>
+          </div>
+          <b class="ar-wardrobe">AR WARDROBE</b>
+        </div>
+        <div class="rectangle-parent">
+          <div class="group-child"></div>
+          <img
+            class="mask-group-icon"
+            alt=""
+            src="../../public/icons/mask-group@2x.png"
+          />
+
+          <img
+            class="mask-group-icon1"
+            alt=""
+            src="../../public/icons/mask-group.svg"
+            id="popupmaskGroup"
+          />
+
+          <div class="ultimate">
+            <div class="ultimate1">ULTIMATE</div>
+            <div class="ready-to-try">
+              Ready to try something specific, or looking to explore new styles?
+            </div>
+          </div>
+          <div class="ultimate2">
+            <div class="ultimate3">ULTIMATE</div>
+            <div class="ive-chosen-a">I’ve chosen a product</div>
+          </div>
+        </div>
+        <div class="ultimate4">
+          <div class="ultimate5">ULTIMATE</div>
+        </div>
+        <div class="option-child" id="popuprectangle"></div>
+        <div class="rectangle-group">
+          <div class="group-item"></div>
+          <div class="ultimate6">
+            <div class="ultimate7">ULTIMATE</div>
+            <div class="scan-barcode">Scan Barcode</div>
+          </div>
+        </div>
+        <div class="option-inner">
+          <div class="group-wrapper">
+            <div class="group-wrapper">
+              <div class="group-inner"></div>
+              <div class="ultimate8">
+                <div class="ultimate9">ULTIMATE</div>
+                <div class="enter-serial-number">
+                  Enter Serial Number manually
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var popupbuttonContainer = document.getElementById(
+        "popupbuttonContainer"
+      );
+      if (popupbuttonContainer) {
+        popupbuttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+
+      var popupmaskGroup = document.getElementById("popupmaskGroup");
+      if (popupmaskGroup) {
+        popupmaskGroup.addEventListener("click", function (e) {
+          window.location.href = "./option4.html";
+        });
+      }
+
+      var popuprectangle = document.getElementById("popuprectangle");
+      if (popuprectangle) {
+        popuprectangle.addEventListener("click", function (e) {
+          window.location.href = "./option3.html";
+        });
+      }
+
+      var buttonContainer = document.getElementById("buttonContainer");
+      if (buttonContainer) {
+        buttonContainer.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+
+      var maskGroupImage = document.getElementById("maskGroupImage");
+      if (maskGroupImage) {
+        maskGroupImage.addEventListener("click", function () {
+          var popup = document.getElementById("optionContainer");
+          if (!popup) return;
+          var popupStyle = popup.style;
+          if (popupStyle) {
+            popupStyle.display = "flex";
+            popupStyle.zIndex = 100;
+            popupStyle.backgroundColor = "rgba(113, 113, 113, 0.3)";
+            popupStyle.alignItems = "center";
+            popupStyle.justifyContent = "center";
+          }
+          popup.setAttribute("closable", "");
+
+          var onClick =
+            popup.onClick ||
+            function (e) {
+              if (e.target === popup && popup.hasAttribute("closable")) {
+                popupStyle.display = "none";
+              }
+            };
+          popup.addEventListener("click", onClick);
+        });
+      }
+
+      var maskGroup = document.getElementById("maskGroup");
+      if (maskGroup) {
+        maskGroup.addEventListener("click", function (e) {
+          window.location.href = "./option4.html";
+        });
+      }
+    </script>
+  </body>
+</html>

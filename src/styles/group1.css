@@ -1,0 +1,145 @@
+.card-details,
+.card-number {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.card-details {
+  font-size: var(--font-size-5xl);
+  line-height: 46px;
+  font-family: var(--headings-typography-size-2);
+  width: 652.6px;
+  height: 40.1px;
+}
+.card-number {
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  width: 170px;
+  height: 12.2px;
+}
+.background-child {
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+}
+.background,
+.background-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.seen-on-your {
+  position: absolute;
+  top: calc(50% - 7px);
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+}
+.text {
+  position: absolute;
+  top: calc(50% - 7.8px);
+  left: 24px;
+  width: 122px;
+  height: 14px;
+}
+.cardholders-name,
+.email,
+.large-input {
+  position: absolute;
+  top: 23.6px;
+  left: 0;
+  width: 741.5px;
+  height: 43.6px;
+}
+.cardholders-name,
+.email {
+  top: 134.3px;
+  height: 67.2px;
+}
+.cardholders-name {
+  top: 0;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+  width: 135.6px;
+  height: 12.2px;
+}
+.email1,
+.expirity {
+  position: absolute;
+  top: 48.9px;
+  left: 0;
+  width: 741.5px;
+  height: 67.2px;
+}
+.expirity {
+  top: 0;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+  width: 202px;
+  height: 12px;
+}
+.text2 {
+  position: absolute;
+  top: calc(50% - 7.8px);
+  left: 24px;
+  width: 37px;
+  height: 14px;
+}
+.email2,
+.large-input2 {
+  position: absolute;
+  top: 23.3px;
+  left: 0;
+  width: 357.7px;
+  height: 43.6px;
+}
+.email2 {
+  top: 220.9px;
+  height: 67px;
+}
+.cvc {
+  top: 0;
+  left: 0.1px;
+  letter-spacing: -0.02em;
+  line-height: 100%;
+  font-weight: 600;
+  display: inline-block;
+  width: 191px;
+  height: 12px;
+}
+.cvc,
+.email3,
+.text3 {
+  position: absolute;
+}
+.text3 {
+  top: calc(50% - 7.8px);
+  left: 24px;
+  width: 26px;
+  height: 14px;
+}
+.email3 {
+  top: 220.9px;
+  left: 383.9px;
+  width: 357.7px;
+  height: 67px;
+}
+.card-details-parent {
+  width: 100%;
+  position: relative;
+  height: 287.9px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,269 @@
+.bg16 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px #00000026;
+}
+
+.sign-up10 {
+  line-height: 100%;
+  position: absolute;
+  top: 16px;
+  left: 38px;
+}
+
+.button15 {
+  cursor: pointer;
+  text-align: center;
+  width: 152px;
+  height: 56px;
+  color: var(--color-black);
+  position: absolute;
+  top: 0;
+  left: 643px;
+}
+
+.home11, .try-on11 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+
+.home11 {
+  left: 0;
+}
+
+.browse9, .nav-elements9, .size-recommnedation9 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+
+.browse9, .nav-elements9 {
+  left: 375px;
+}
+
+.nav-elements9 {
+  width: 795px;
+  height: 56px;
+  top: 0;
+  left: 501px;
+}
+
+.ar-wardrobe9 {
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+  position: absolute;
+  top: 10px;
+  left: 0;
+}
+
+.base, .header9 {
+  width: 1296px;
+  height: 56px;
+  position: absolute;
+  top: 63px;
+  left: 108px;
+}
+
+.base {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  inset: 0;
+  box-shadow: 0 40px 90px #0000000f;
+}
+
+.div4 {
+  font-size: var(--font-size-5xl);
+  letter-spacing: -.01em;
+  font-weight: 500;
+  line-height: 20px;
+  top: 111px;
+  left: 0;
+}
+
+.almost-sold-out, .div4, .k-customer-reviews {
+  text-shadow: 1px 0 #484848, 0 1px #484848, -1px 0 #484848, 0 -1px #484848;
+  position: absolute;
+}
+
+.almost-sold-out {
+  letter-spacing: -.01em;
+  color: var(--color-tomato);
+  text-align: right;
+  line-height: 20px;
+  top: 111px;
+  left: 242px;
+}
+
+.k-customer-reviews {
+  font-weight: 500;
+  top: 68px;
+  left: 0;
+}
+
+.stars-icon {
+  width: calc(100% - 241px);
+  max-width: 100%;
+  height: calc(100% - 112px);
+  max-height: 100%;
+  position: absolute;
+  inset: 6px 0 106px 241px;
+  overflow: hidden;
+}
+
+.al-karam {
+  text-shadow: 1px 0 #484848, 0 1px #484848, -1px 0 #484848, 0 -1px #484848;
+  font-weight: 500;
+  line-height: 12px;
+  position: absolute;
+  top: 31px;
+  left: 0;
+}
+
+.name-brand, .shiny-dress {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.shiny-dress {
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  text-shadow: 1px 0 #484848, 0 1px #484848, -1px 0 #484848, 0 -1px #484848;
+  font-weight: 500;
+}
+
+.name-brand {
+  width: calc(100% - 220px);
+  height: calc(100% - 88px);
+  color: var(--color-gray);
+  bottom: 88px;
+  right: 220px;
+}
+
+.images-icon, .texts {
+  width: calc(100% - 50px);
+  height: calc(100% - 307px);
+  position: absolute;
+  inset: 271px 25px 36px;
+}
+
+.images-icon {
+  border-radius: var(--br-3xs);
+  object-fit: cover;
+  max-width: 100%;
+  height: calc(100% - 194px);
+  max-height: 100%;
+  top: 15px;
+  bottom: 179px;
+  overflow: hidden;
+}
+
+.name-brand1, .product1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.product1 {
+  cursor: pointer;
+  width: calc(100% - 894px);
+  height: calc(100% - 498px);
+  bottom: 498px;
+  right: 894px;
+}
+
+.name-brand1 {
+  width: calc(100% - 217px);
+  height: calc(100% - 88px);
+  color: var(--color-gray);
+  bottom: 88px;
+  right: 217px;
+}
+
+.name-brand2, .product2 {
+  width: calc(100% - 894px);
+  height: calc(100% - 498px);
+  position: absolute;
+  inset: 498px 894px 0 0;
+}
+
+.name-brand2 {
+  width: calc(100% - 227px);
+  height: calc(100% - 88px);
+  color: var(--color-gray);
+  top: 0;
+  bottom: 88px;
+  right: 227px;
+}
+
+.name-brand3, .product3 {
+  width: calc(100% - 894px);
+  height: calc(100% - 498px);
+  position: absolute;
+  inset: 0 447px 498px;
+}
+
+.name-brand3 {
+  width: calc(100% - 196px);
+  height: calc(100% - 88px);
+  color: var(--color-gray);
+  bottom: 88px;
+  left: 0;
+  right: 196px;
+}
+
+.name-brand4, .product4 {
+  width: calc(100% - 894px);
+  height: calc(100% - 498px);
+  position: absolute;
+  inset: 498px 447px 0;
+}
+
+.name-brand4 {
+  width: calc(100% - 215px);
+  height: calc(100% - 88px);
+  color: var(--color-gray);
+  inset: 0 215px 88px 0;
+}
+
+.product5, .product6, .products {
+  width: calc(100% - 894px);
+  height: calc(100% - 498px);
+  position: absolute;
+  inset: 0 0 498px 894px;
+}
+
+.product6, .products {
+  top: 498px;
+  bottom: 0;
+}
+
+.products {
+  width: calc(100% - 232px);
+  height: calc(100% - 46px);
+  font-size: var(--font-size-xs);
+  inset: 206px 116px -160px;
+}
+
+.option2 {
+  background-color: var(--color-black);
+  text-align: left;
+  width: 100%;
+  height: 982px;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-poppins);
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=option4.7de5e913.css.map */

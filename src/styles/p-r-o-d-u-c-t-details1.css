@@ -1,0 +1,79 @@
+.bg8,
+.sign-up5 {
+  position: absolute;
+}
+.bg8 {
+  top: 0;
+  left: 0;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.15);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 152px;
+  height: 56px;
+}
+.sign-up5 {
+  top: 16px;
+  left: 38px;
+  line-height: 100%;
+}
+.button7 {
+  position: absolute;
+  top: 0;
+  left: 643px;
+  width: 152px;
+  height: 56px;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-black);
+}
+.home6,
+.try-on6 {
+  position: absolute;
+  top: 11px;
+  left: 492px;
+}
+.home6 {
+  left: 0;
+}
+.browse5,
+.nav-elements5,
+.size-recommnedation5 {
+  position: absolute;
+  top: 11px;
+  left: 105px;
+}
+.browse5,
+.nav-elements5 {
+  left: 375px;
+}
+.nav-elements5 {
+  top: 0;
+  left: 501px;
+  width: 795px;
+  height: 56px;
+}
+.ar-wardrobe5 {
+  position: absolute;
+  top: 10px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  line-height: 100%;
+}
+.header5 {
+  position: absolute;
+  top: 63px;
+  left: 108px;
+  width: 1296px;
+  height: 56px;
+}
+.product-details2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-poppins);
+}

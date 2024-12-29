@@ -1,0 +1,242 @@
+.unsplashowp8uqgok8u-icon {
+  object-fit: cover;
+  width: 733px;
+  height: 1022px;
+  position: absolute;
+  top: -20px;
+  left: -64px;
+}
+
+.white-bg {
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  width: 1059px;
+  height: 982px;
+  position: absolute;
+  top: 0;
+  left: 475px;
+}
+
+.create-account {
+  font-size: var(--font-size-17xl);
+  width: 313px;
+  height: 59px;
+  font-weight: 600;
+  display: inline-block;
+  position: absolute;
+  top: 119px;
+  left: 669px;
+}
+
+.continue-with-google-child {
+  border-radius: var(--br-7xs);
+  width: 308.3px;
+  height: 56.1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.image-2-icon {
+  object-fit: cover;
+  width: 35px;
+  height: 35.1px;
+  position: absolute;
+  top: 11.2px;
+  left: 18.2px;
+}
+
+.continue-with-google1 {
+  width: 185px;
+  height: 25.3px;
+  font-weight: 600;
+  display: inline-block;
+  position: absolute;
+  top: 15.4px;
+  left: 71.5px;
+}
+
+.continue-with-google {
+  width: 308.3px;
+  height: 56.1px;
+  font-size: var(--font-size-base);
+  position: absolute;
+  top: 234.3px;
+  left: 668.4px;
+}
+
+.continue-with-facebook-child {
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 308.3px;
+  height: 56.1px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.continue-with-facebook1 {
+  width: 207.4px;
+  height: 25.3px;
+  font-weight: 600;
+  display: inline-block;
+  position: absolute;
+  top: 15.4px;
+  left: 77.1px;
+}
+
+.image-3-icon2 {
+  object-fit: cover;
+  width: 33.6px;
+  height: 33.7px;
+  position: absolute;
+  top: 11.2px;
+  left: 22.4px;
+}
+
+.continue-with-facebook, .or- {
+  width: 308.3px;
+  height: 56.1px;
+  font-size: var(--font-size-base);
+  position: absolute;
+  top: 234.3px;
+  left: 1010.3px;
+}
+
+.or- {
+  font-size: var(--font-size-xl);
+  color: #a1a1a1;
+  width: 75px;
+  height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  top: 347px;
+  left: 974px;
+}
+
+.full-name-child {
+  background-color: var(--color-whitesmoke);
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 651.2px;
+  height: 1px;
+  position: absolute;
+  top: 58.5px;
+  left: -.5px;
+}
+
+.full-name1 {
+  width: 201px;
+  height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.email-address1, .full-name {
+  width: 650.2px;
+  height: 59px;
+  position: absolute;
+  top: 432px;
+  left: 668px;
+}
+
+.email-address1 {
+  width: 236px;
+  height: 29px;
+  font-weight: 500;
+  display: inline-block;
+  top: 0;
+  left: 0;
+}
+
+.email-address, .password-child {
+  width: 650.2px;
+  height: 59px;
+  position: absolute;
+  top: 529px;
+  left: 668px;
+}
+
+.password-child {
+  background-color: var(--color-whitesmoke);
+  border-top: 1px solid var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 651.2px;
+  height: 1px;
+  top: 61.5px;
+  left: .5px;
+}
+
+.password1 {
+  width: 178px;
+  height: 30px;
+  font-weight: 500;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.button-child, .password {
+  width: 651.2px;
+  height: 62px;
+  position: absolute;
+  top: 624px;
+  left: 668px;
+}
+
+.button-child {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-cadetblue-100);
+  width: 650.2px;
+  height: 56.1px;
+  top: 0;
+  left: 0;
+}
+
+.create-account1 {
+  width: 281px;
+  height: 34px;
+  font-weight: 600;
+  display: inline-block;
+  position: absolute;
+  top: 10.9px;
+  left: 185.6px;
+}
+
+.button12 {
+  text-align: center;
+  width: 650.2px;
+  height: 56.1px;
+  color: var(--color-black);
+  position: absolute;
+  top: 735.1px;
+  left: 668.4px;
+}
+
+.already-have-an {
+  font-size: var(--font-size-base);
+  width: 314px;
+  height: 30px;
+  display: inline-block;
+  position: absolute;
+  top: 826px;
+  left: 669px;
+}
+
+.signup {
+  text-align: left;
+  width: 100%;
+  height: 982px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-poppins);
+  background-color: #65a0ab;
+  position: relative;
+  overflow: hidden;
+}
+/*# sourceMappingURL=sign-up.8dafa585.css.map */

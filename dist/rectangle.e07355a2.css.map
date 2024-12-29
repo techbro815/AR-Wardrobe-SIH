@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["rectangle.css"],"sourcesContent":[".rectangle-div1 {\n  width: 100%;\n  position: relative;\n  border-radius: var(--br-11xl);\n  background-color: var(--color-gainsboro);\n  height: 130px;\n}\n"],"names":[],"version":3,"file":"rectangle.e07355a2.css.map","sourceRoot":"/__parcel_source_root/"}
