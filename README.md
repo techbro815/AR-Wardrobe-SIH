@@ -77,6 +77,3 @@ To preview and run the project on your local device, follow these steps:
 - Backend implementation for secure user data storage.
 - Advanced ML algorithms for personalized recommendations.
 
----
-
-Feel free to customize or expand the README further based on additional project features or instructions!
