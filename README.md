@@ -1,5 +1,3 @@
-# **AR Wardrobe**
-
 # AR Wardrobe
 
 ![AR Wardrobe Header](assets/Sample-Image1.png)
